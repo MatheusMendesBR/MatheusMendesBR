@@ -1,14 +1,14 @@
-<h1 align="left">Hi there 👋! Welcome to my github profile  🐙</h1>
+<h1 align="center">Hi there 👋! Welcome to my github profile  🐙</h1>
 
 ###
 
-<h4 align="left">ABOUT ME</h4>
+<h4 align="center">ABOUT ME</h4>
 
 ###
 
 <br clear="both">
 
-<p align="left">●    My name is Matheus and i'm a back-end developer from Brasília, Distrito Federal Brazil 🇧🇷 🏴‍☠️<br><br>●    Network Analyst , Technologist Degree in Systems Analysis and Development and Computer Network Specialist ☑</p>
+<p align="center">●    My name is Matheus and i'm a back-end developer from Brasília, Distrito Federal Brazil 🇧🇷 🏴‍☠️<br><br>●    Network Analyst , Technologist Degree in Systems Analysis and Development and Computer Network Specialist ☑</p>
 
 ###
 
