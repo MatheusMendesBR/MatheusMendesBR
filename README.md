@@ -2,9 +2,17 @@
 
 ###
 
+<h4 align="left">ABOUT ME</h4>
+
+###
+
 <br clear="both">
 
 <p align="left">●    My name is Matheus and i'm a back-end developer from Brasília, Distrito Federal Brazil 🇧🇷 🏴‍☠️<br><br>●    Network Analyst , Technologist Degree in Systems Analysis and Development and Computer Network Specialist ☑</p>
+
+###
+
+<h4 align="center">SKILLS</h4>
 
 ###
 
@@ -28,6 +36,10 @@
 
 ###
 
+<h4 align="center">SOCIAL MEDIA</h4>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mmendesinfo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -42,10 +54,8 @@
 
 ###
 
-<img align="right" height="125" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp1MGdkaGR5eWJtZzdkZ2N6dXhpZm84aTZyMHF2b2QxY3kwNnR0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/MatheusMendesBR/MatheusMendesBR/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV4bm0wejcwdnE4eTV0eTJpdTV2djh2dzRkczBqZTE4Z3A5Y3d3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+</div>
 
 ###
